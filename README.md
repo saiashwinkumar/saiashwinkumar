@@ -1,6 +1,7 @@
 ## Hello World! I'm Sai Ashwin 👋
 
 🎓 MSc in Business Analytics @ NUS Business School, Singapore (2025-26) | B.E. Mechanical Engineering from BITS Pilani, Hyderabad, India (2019-23) | Diploma in Data Science and Programming from IIT Madras (online)
+
 💼 Former Business Analyst @ Groww (Bengaluru, India)
 
 ---
