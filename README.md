@@ -10,7 +10,6 @@ I enjoy working at the intersection of:
 - Data engineering & analytics platforms
 - Applied machine learning & decision systems
 - Business problem-driven modeling.
-
 Currently pursuing my MSBA at NUS, I aim to deepen my expertise in data-driven decision-making and stay at the forefront of emerging technologies such as GenAI and LLMs that are redefining analytics in the modern era.
 ---
 
